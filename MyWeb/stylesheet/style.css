@@ -1,0 +1,68 @@
+* {
+    font-family: Bahnschrift;
+    line-height: 1.5;
+}
+
+body {
+    background: #00ff2b url("files/matrixbackground.jpg") fixed;
+    margin: 0px;
+}
+
+.main {
+    background: white;
+    width: 50%;
+    margin: 0px auto;
+    padding: 1.5% 1%;
+    box-shadow: 2px 2px 5px darkgreen;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+ul {
+    margin-bottom: 0px;
+}
+
+h1, h2 {
+    background: #00ff2b;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 2px 2px 5px darkgreen;
+    text-shadow: 1px 1px 1px darkgreen;
+    border-radius: 20px/50%;
+    margin-bottom: 35px;
+}
+
+img {
+    float: right;
+    padding: 1%;
+ }
+
+.biografie {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+selection {
+    margin-bottom: 150px;
+}
+
+table, th, td {
+    border: 2px solid #00ff2b;
+    border-collapse: collapse;
+}
+
+table {
+    width: 45%;
+    text-align: center;
+    background: linear-gradient(#08f26e,#009a22);
+    box-shadow: 2px 2px 5px darkgreen;
+    color: white;
+    margin: 0px auto;
+}
+
+.tabelle {
+    justify-content: ;
+}
